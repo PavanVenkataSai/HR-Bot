@@ -1,0 +1,20 @@
+[
+    {
+        "question": "What is your full name?"
+    },
+    {
+        "question": "Where are you currently located?"
+    },
+    {
+        "question": "What is your preferred programming language?"
+    },
+    {
+        "question": "Do you have any prior experience in data analysis? (Yes/No)"
+    },
+    {
+        "question": "What are your career goals in the next 5 years?"
+    },
+    {
+        "question":" "
+    }
+]
